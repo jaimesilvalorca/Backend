@@ -3,3 +3,5 @@ dist/
 logs/
 .DS_STORE
 .env
+mongo/
+postgres/

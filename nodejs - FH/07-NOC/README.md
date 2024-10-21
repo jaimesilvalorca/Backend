@@ -12,3 +12,11 @@ MAILER_EMAIL=
 MAILER_SECRET_KEY=
 PROD=false
 ```
+
+3. Ejecutar el comando ``` npm install ```
+4. Levantar las bases de datos con el comando 
+    ```
+    docker compose up -d
+    
+    ```
+5. Ejecutar el comando ``` npm run dev ```
