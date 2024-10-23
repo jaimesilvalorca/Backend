@@ -51,7 +51,7 @@ async function main(){
 
     // const logs = await LogModel.find()
 
-    // Server.start()
+    Server.start()
     // console.log(envs)
 
 }
